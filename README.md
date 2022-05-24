@@ -1,8 +1,8 @@
 ### Hi!!! 😁
 > - I am study react📘
-> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=plasic&logo=appveryor)
 > - I like League of Legends. 
-> ![Riot Games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white&logo=appveyor)
+> ![Riot Games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
 
 <!--
 **KimSeolHee/KimSeolHee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
