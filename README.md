@@ -1,7 +1,7 @@
 ### Hi!!! 😁
- I am study react📘
- I like League of Legends 
- ![Riot Games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
+> I am study react📘
+> I like League of Legends 
+> ![Riot Games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
 
 <!--
 **KimSeolHee/KimSeolHee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
