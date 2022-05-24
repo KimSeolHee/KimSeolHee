@@ -1,6 +1,6 @@
 ### Hi!!! 😁
-> I am study react📘
-> I like League of Legends 
+- I am study react📘
+- I like League of Legends 
 > ![Riot Games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
 
 <!--
